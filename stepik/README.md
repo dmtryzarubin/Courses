@@ -1,1 +1,0 @@
-# Листинги программ, написанные при прохождении онлайн курсов с платформ [Stepik](https://stepik.org/) и [Coursera](https://www.coursera.org/)
